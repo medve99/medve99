@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @medve99
 - 👀 I’m interested in software and game development
 - 🌱 I’m currently learning c#
+- I accidentally got into cryptography and I love it
 - 📫 How to reach me ppmbrs@gmail.com
 - ⚡ Fun fact: cheese is good
